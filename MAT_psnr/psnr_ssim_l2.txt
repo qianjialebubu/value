@@ -1,0 +1,8 @@
+result1:   psnr: 38.6712, ssim: 0.9829, l1: 0.0036
+result10:   psnr: 37.7994, ssim: 0.9829, l1: 0.0039
+result2:   psnr: 32.3416, ssim: 0.9490, l1: 0.0080
+result20:   psnr: 32.7415, ssim: 0.9569, l1: 0.0075
+result3:   psnr: 28.5220, ssim: 0.9019, l1: 0.0142
+result30:   psnr: 29.1929, ssim: 0.9158, l1: 0.0129
+result4:   psnr: 26.2143, ssim: 0.8482, l1: 0.0209
+result40:   psnr: 27.1517, ssim: 0.8757, l1: 0.0185

@@ -1,0 +1,140 @@
+time:  2023-03-20 12:04:28.888208 50轮
+result10:    psnr: 38.1680, ssim: 0.9817, l1: 0.0039, lpips: 0.0127
+result1:     psnr: 38.0718, ssim: 0.9797, l1: 0.0039, lpips: 0.0150
+result20:    psnr: 32.4026, ssim: 0.9520, l1: 0.0078, lpips: 0.0358
+result2:     psnr: 32.5445, ssim: 0.9483, l1: 0.0078, lpips: 0.0385
+result30:    psnr: 28.7608, ssim: 0.9097, l1: 0.0137, lpips: 0.0678
+result3:     psnr: 28.9811, ssim: 0.9025, l1: 0.0135, lpips: 0.0749
+result40:    psnr: 26.7144, ssim: 0.8617, l1: 0.0202, lpips: 0.1013
+result4:     psnr: 26.1133, ssim: 0.8453, l1: 0.0212, lpips: 0.1188
+result50:    psnr: 24.6556, ssim: 0.8104, l1: 0.0278, lpips: 0.1407
+result5:     psnr: 23.8796, ssim: 0.7754, l1: 0.0310, lpips: 0.1737
+result60:    psnr: 22.0309, ssim: 0.7205, l1: 0.0426, lpips: 0.2216
+result6:     psnr: 21.2887, ssim: 0.6766, l1: 0.0481, lpips: 0.2605
+psnr_sum: 28.6343, ssim_sum: 0.8637, l1_sum: 0.0201, lpips_sum: 0.1051
+time:  2023-03-20 12:21:33.624912 48轮
+result10:    psnr: 37.4172, ssim: 0.9817, l1: 0.0041, lpips: 0.0118
+result1:     psnr: 38.5367, ssim: 0.9827, l1: 0.0036, lpips: 0.0121
+result20:    psnr: 32.6707, ssim: 0.9545, l1: 0.0077, lpips: 0.0325
+result2:     psnr: 32.1332, ssim: 0.9466, l1: 0.0082, lpips: 0.0407
+result30:    psnr: 29.1759, ssim: 0.9134, l1: 0.0131, lpips: 0.0628
+result3:     psnr: 29.1446, ssim: 0.9045, l1: 0.0135, lpips: 0.0739
+result40:    psnr: 26.6242, ssim: 0.8645, l1: 0.0201, lpips: 0.1008
+result4:     psnr: 26.1536, ssim: 0.8444, l1: 0.0212, lpips: 0.1201
+result50:    psnr: 24.4748, ssim: 0.8058, l1: 0.0288, lpips: 0.1455
+result5:     psnr: 24.1465, ssim: 0.7819, l1: 0.0297, lpips: 0.1733
+result60:    psnr: 22.0566, ssim: 0.7201, l1: 0.0428, lpips: 0.2229
+result6:     psnr: 21.0037, ssim: 0.6759, l1: 0.0485, lpips: 0.2689
+psnr_sum: 28.6281, ssim_sum: 0.8647, l1_sum: 0.0201, lpips_sum: 0.1054
+time:  2023-03-20 13:19:19.522314 46轮
+result10:    psnr: 37.3721, ssim: 0.9818, l1: 0.0040, lpips: 0.0124
+result1:     psnr: 37.7141, ssim: 0.9797, l1: 0.0039, lpips: 0.0146
+result20:    psnr: 32.7819, ssim: 0.9535, l1: 0.0077, lpips: 0.0322
+result2:     psnr: 32.2341, ssim: 0.9465, l1: 0.0081, lpips: 0.0384
+result30:    psnr: 28.9808, ssim: 0.9096, l1: 0.0135, lpips: 0.0650
+result3:     psnr: 28.7187, ssim: 0.8976, l1: 0.0143, lpips: 0.0759
+result40:    psnr: 26.5283, ssim: 0.8595, l1: 0.0200, lpips: 0.1021
+result4:     psnr: 26.0285, ssim: 0.8380, l1: 0.0221, lpips: 0.1238
+result50:    psnr: 24.5664, ssim: 0.8052, l1: 0.0281, lpips: 0.1445
+result5:     psnr: 24.0788, ssim: 0.7709, l1: 0.0309, lpips: 0.1750
+result60:    psnr: 21.7717, ssim: 0.7108, l1: 0.0441, lpips: 0.2243
+result6:     psnr: 21.0544, ssim: 0.6660, l1: 0.0493, lpips: 0.2715
+psnr_sum: 28.4858, ssim_sum: 0.8599, l1_sum: 0.0205, lpips_sum: 0.1067
+time:  2023-03-20 13:32:19.072336 44轮
+result10:    psnr: 38.1540, ssim: 0.9819, l1: 0.0040, lpips: 0.0123
+result1:     psnr: 38.4609, ssim: 0.9816, l1: 0.0037, lpips: 0.0142
+result20:    psnr: 32.6303, ssim: 0.9530, l1: 0.0078, lpips: 0.0337
+result2:     psnr: 32.7324, ssim: 0.9498, l1: 0.0076, lpips: 0.0373
+result30:    psnr: 29.0844, ssim: 0.9149, l1: 0.0133, lpips: 0.0658
+result3:     psnr: 28.6370, ssim: 0.9016, l1: 0.0140, lpips: 0.0765
+result40:    psnr: 27.1760, ssim: 0.8713, l1: 0.0189, lpips: 0.0973
+result4:     psnr: 25.9709, ssim: 0.8462, l1: 0.0217, lpips: 0.1253
+result50:    psnr: 24.8653, ssim: 0.8143, l1: 0.0273, lpips: 0.1433
+result5:     psnr: 24.3580, ssim: 0.7943, l1: 0.0285, lpips: 0.1685
+result60:    psnr: 21.7964, ssim: 0.7251, l1: 0.0434, lpips: 0.2267
+result6:     psnr: 21.2355, ssim: 0.6856, l1: 0.0474, lpips: 0.2691
+psnr_sum: 28.7584, ssim_sum: 0.8683, l1_sum: 0.0198, lpips_sum: 0.1058
+time:  2023-03-20 13:53:34.924351 42轮
+result10:    psnr: 39.2136, ssim: 0.9856, l1: 0.0034, lpips: 0.0092
+result1:     psnr: 38.2453, ssim: 0.9816, l1: 0.0038, lpips: 0.0140
+result20:    psnr: 32.3823, ssim: 0.9534, l1: 0.0078, lpips: 0.0342
+result2:     psnr: 32.8030, ssim: 0.9500, l1: 0.0077, lpips: 0.0381
+result30:    psnr: 29.2359, ssim: 0.9137, l1: 0.0132, lpips: 0.0623
+result3:     psnr: 29.1226, ssim: 0.9036, l1: 0.0138, lpips: 0.0768
+result40:    psnr: 26.8596, ssim: 0.8668, l1: 0.0198, lpips: 0.0987
+result4:     psnr: 26.4536, ssim: 0.8484, l1: 0.0210, lpips: 0.1206
+result50:    psnr: 24.7212, ssim: 0.8117, l1: 0.0275, lpips: 0.1420
+result5:     psnr: 24.5695, ssim: 0.7938, l1: 0.0283, lpips: 0.1632
+result60:    psnr: 22.4079, ssim: 0.7280, l1: 0.0407, lpips: 0.2158
+result6:     psnr: 21.4817, ssim: 0.6876, l1: 0.0463, lpips: 0.2666
+psnr_sum: 28.9454, ssim_sum: 0.8685, l1_sum: 0.0194, lpips_sum: 0.1036
+time:  2023-03-20 14:03:20.149547 40轮
+result10:    psnr: 38.5523, ssim: 0.9837, l1: 0.0037, lpips: 0.0111
+result1:     psnr: 38.7157, ssim: 0.9818, l1: 0.0037, lpips: 0.0133
+result20:    psnr: 32.7952, ssim: 0.9550, l1: 0.0076, lpips: 0.0326
+result2:     psnr: 32.7323, ssim: 0.9480, l1: 0.0078, lpips: 0.0387
+result30:    psnr: 28.9113, ssim: 0.9084, l1: 0.0138, lpips: 0.0674
+result3:     psnr: 28.9953, ssim: 0.9032, l1: 0.0135, lpips: 0.0759
+result40:    psnr: 26.8097, ssim: 0.8662, l1: 0.0195, lpips: 0.0975
+result4:     psnr: 26.2400, ssim: 0.8446, l1: 0.0211, lpips: 0.1210
+result50:    psnr: 24.6773, ssim: 0.8072, l1: 0.0279, lpips: 0.1447
+result5:     psnr: 23.9301, ssim: 0.7763, l1: 0.0308, lpips: 0.1753
+result60:    psnr: 21.8298, ssim: 0.7120, l1: 0.0442, lpips: 0.2261
+result6:     psnr: 21.1814, ssim: 0.6742, l1: 0.0478, lpips: 0.2655
+psnr_sum: 28.7809, ssim_sum: 0.8634, l1_sum: 0.0201, lpips_sum: 0.1058
+time:  2023-03-20 14:14:03.585474 42轮2
+result10:    psnr: 37.7858, ssim: 0.9819, l1: 0.0040, lpips: 0.0128
+result1:     psnr: 37.7555, ssim: 0.9804, l1: 0.0040, lpips: 0.0144
+result20:    psnr: 32.8213, ssim: 0.9549, l1: 0.0075, lpips: 0.0334
+result2:     psnr: 32.6209, ssim: 0.9485, l1: 0.0079, lpips: 0.0400
+result30:    psnr: 29.6189, ssim: 0.9165, l1: 0.0124, lpips: 0.0612
+result3:     psnr: 28.8113, ssim: 0.9016, l1: 0.0135, lpips: 0.0778
+result40:    psnr: 26.8596, ssim: 0.8668, l1: 0.0198, lpips: 0.0987
+result4:     psnr: 26.4536, ssim: 0.8484, l1: 0.0210, lpips: 0.1206
+result50:    psnr: 24.6347, ssim: 0.8091, l1: 0.0278, lpips: 0.1443
+result5:     psnr: 24.2645, ssim: 0.7834, l1: 0.0298, lpips: 0.1755
+result60:    psnr: 22.0482, ssim: 0.7224, l1: 0.0434, lpips: 0.2199
+result6:     psnr: 21.5399, ssim: 0.6833, l1: 0.0468, lpips: 0.2671
+psnr_sum: 28.7679, ssim_sum: 0.8664, l1_sum: 0.0198, lpips_sum: 0.1055
+time:  2023-03-20 14:36:55.714003 42轮3
+result10:    psnr: 38.0891, ssim: 0.9834, l1: 0.0038, lpips: 0.0117
+result1:     psnr: 39.0983, ssim: 0.9842, l1: 0.0035, lpips: 0.0126
+result20:    psnr: 32.4064, ssim: 0.9529, l1: 0.0077, lpips: 0.0354
+result2:     psnr: 32.8657, ssim: 0.9509, l1: 0.0076, lpips: 0.0382
+result30:    psnr: 29.5369, ssim: 0.9158, l1: 0.0128, lpips: 0.0613
+result3:     psnr: 28.8413, ssim: 0.9018, l1: 0.0138, lpips: 0.0769
+result40:    psnr: 26.9038, ssim: 0.8692, l1: 0.0192, lpips: 0.0997
+result4:     psnr: 26.4789, ssim: 0.8491, l1: 0.0205, lpips: 0.1190
+result50:    psnr: 25.0070, ssim: 0.8126, l1: 0.0271, lpips: 0.1400
+result5:     psnr: 24.3391, ssim: 0.7855, l1: 0.0298, lpips: 0.1731
+result60:    psnr: 21.9754, ssim: 0.7220, l1: 0.0431, lpips: 0.2262
+result6:     psnr: 21.5033, ssim: 0.6858, l1: 0.0460, lpips: 0.2686
+psnr_sum: 28.9205, ssim_sum: 0.8678, l1_sum: 0.0196, lpips_sum: 0.1052
+time:  2023-03-20 14:53:58.604980 42轮4
+result10:    psnr: 38.6380, ssim: 0.9838, l1: 0.0037, lpips: 0.0115
+result1:     psnr: 38.9202, ssim: 0.9829, l1: 0.0036, lpips: 0.0125
+result20:    psnr: 33.0403, ssim: 0.9557, l1: 0.0074, lpips: 0.0320
+result2:     psnr: 32.5493, ssim: 0.9505, l1: 0.0076, lpips: 0.0412
+result30:    psnr: 29.2389, ssim: 0.9116, l1: 0.0132, lpips: 0.0643
+result3:     psnr: 28.9791, ssim: 0.9044, l1: 0.0135, lpips: 0.0749
+result40:    psnr: 26.2667, ssim: 0.8558, l1: 0.0212, lpips: 0.1078
+result4:     psnr: 26.1502, ssim: 0.8435, l1: 0.0215, lpips: 0.1246
+result50:    psnr: 24.8715, ssim: 0.8099, l1: 0.0274, lpips: 0.1431
+result5:     psnr: 24.2261, ssim: 0.7816, l1: 0.0301, lpips: 0.1759
+result60:    psnr: 21.9481, ssim: 0.7204, l1: 0.0430, lpips: 0.2247
+result6:     psnr: 21.4948, ssim: 0.6865, l1: 0.0466, lpips: 0.2678
+psnr_sum: 28.8603, ssim_sum: 0.8655, l1_sum: 0.0199, lpips_sum: 0.1067
+time:  2023-03-20 14:58:55.640241 result_all_best
+result10:    psnr: 38.6380, ssim: 0.9838, l1: 0.0037, lpips: 0.0115, fid: 7.08
+result1:     psnr: 39.0983, ssim: 0.9842, l1: 0.0035, lpips: 0.0126, fid: 7.77
+result20:    psnr: 33.1167, ssim: 0.9570, l1: 0.0071, lpips: 0.0319, fid: 19.08
+result2:     psnr: 32.8657, ssim: 0.9509, l1: 0.0076, lpips: 0.0382, fid: 19.12
+result30:    psnr: 29.5369, ssim: 0.9158, l1: 0.0128, lpips: 0.0613, fid: 33.6
+result3:     psnr: 29.2062, ssim: 0.9040, l1: 0.0134, lpips: 0.0741, fid: 35.6
+result40:    psnr: 26.9038, ssim: 0.8692, l1: 0.0192, lpips: 0.0997, fid: 51.65
+result4:     psnr: 26.4536, ssim: 0.8484, l1: 0.0210, lpips: 0.1206, fid: 60.68
+result50:    psnr: 25.0289, ssim: 0.8169, l1: 0.0265, lpips: 0.1392, fid: 70.08
+result5:     psnr: 24.5695, ssim: 0.7938, l1: 0.0283, lpips: 0.1632, fid: 78.52
+result60:    psnr: 22.4079, ssim: 0.7280, l1: 0.0407, lpips: 0.2158, fid: 94.42
+result6:     psnr: 21.5033, ssim: 0.6858, l1: 0.0460, lpips: 0.2686, fid: 112.44
+psnr_sum: 29.0843, ssim_sum: 0.8691, l1_sum: 0.0193, lpips_sum: 0.1036

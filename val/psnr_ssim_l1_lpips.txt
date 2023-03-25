@@ -1,0 +1,13 @@
+time:  2023-03-09 10:36:38.150978
+result10:    psnr: 38.2616, ssim: 0.9828, l1: 0.0039, lpips: 0.0126
+result1:     psnr: 38.1867, ssim: 0.9814, l1: 0.0038, lpips: 0.0144
+result20:    psnr: 32.4946, ssim: 0.9544, l1: 0.0078, lpips: 0.0333
+result2:     psnr: 32.6323, ssim: 0.9511, l1: 0.0076, lpips: 0.0373
+result30:    psnr: 29.1606, ssim: 0.9152, l1: 0.0131, lpips: 0.0620
+result3:     psnr: 28.6894, ssim: 0.9030, l1: 0.0139, lpips: 0.0759
+result40:    psnr: 26.4822, ssim: 0.8624, l1: 0.0202, lpips: 0.1033
+result4:     psnr: 26.1418, ssim: 0.8464, l1: 0.0214, lpips: 0.1214
+result50:    psnr: 24.5014, ssim: 0.8072, l1: 0.0286, lpips: 0.1471
+result5:     psnr: 24.0628, ssim: 0.7838, l1: 0.0300, lpips: 0.1733
+result60:    psnr: 21.8539, ssim: 0.7197, l1: 0.0437, lpips: 0.2240
+result6:     psnr: 21.2172, ssim: 0.6776, l1: 0.0479, lpips: 0.2680

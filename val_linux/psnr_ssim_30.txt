@@ -1,0 +1,13 @@
+time:  2023-03-01 10:56:49.489391
+result1:   psnr: 38.8521, ssim: 0.9829, l1: 0.0036
+result10:   psnr: 38.7853, ssim: 0.9839, l1: 0.0037
+result2:   psnr: 32.2614, ssim: 0.9487, l1: 0.0079
+result20:   psnr: 32.5315, ssim: 0.9533, l1: 0.0078
+result3:   psnr: 29.1529, ssim: 0.9040, l1: 0.0133
+result30:   psnr: 29.2297, ssim: 0.9138, l1: 0.0132
+result4:   psnr: 26.0988, ssim: 0.8434, l1: 0.0215
+result40:   psnr: 26.5455, ssim: 0.8632, l1: 0.0198
+result5:   psnr: 24.1767, ssim: 0.7761, l1: 0.0305
+result50:   psnr: 24.5872, ssim: 0.8075, l1: 0.0284
+result6:   psnr: 21.0859, ssim: 0.6720, l1: 0.0490
+result60:   psnr: 21.7249, ssim: 0.7152, l1: 0.0443

@@ -1,0 +1,41 @@
+time:  2023-03-09 10:07:45.708398 42_1
+result10:   lpips: 0.0126
+result1:   lpips: 0.0144
+result20:   lpips: 0.0333
+result2:   lpips: 0.0373
+result30:   lpips: 0.0620
+result3:   lpips: 0.0759
+result40:   lpips: 0.1033
+result4:   lpips: 0.1214
+result50:   lpips: 0.1471
+result5:   lpips: 0.1733
+result60:   lpips: 0.2240
+result6:   lpips: 0.2680
+
+time:  2023-03-09 10:11:59.423630 42_2
+result10:   lpips: 0.0122
+result1:   lpips: 0.0132
+result20:   lpips: 0.0314
+result2:   lpips: 0.0375
+result30:   lpips: 0.0627
+result3:   lpips: 0.0764
+result40:   lpips: 0.0975
+result4:   lpips: 0.1189
+result50:   lpips: 0.1405
+result5:   lpips: 0.1781
+result60:   lpips: 0.2240
+result6:   lpips: 0.2653
+
+time:  2023-03-09 10:13:11.849765 42_3
+result10:   lpips: 0.0113
+result1:   lpips: 0.0138
+result20:   lpips: 0.0331
+result2:   lpips: 0.0394
+result30:   lpips: 0.0625
+result3:   lpips: 0.0796
+result40:   lpips: 0.0940
+result4:   lpips: 0.1233
+result50:   lpips: 0.1392
+result5:   lpips: 0.1733
+result60:   lpips: 0.2246
+result6:   lpips: 0.2678

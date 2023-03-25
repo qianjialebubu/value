@@ -1,0 +1,31 @@
+time:  2023-03-04 09:43:53.203612
+psnr: 24.6446, ssim: 0.8021, l1: 0.0281
+time:  2023-03-04 09:44:05.411428
+psnr: 21.7739, ssim: 0.7071, l1: 0.0442
+psnr: 21.7739, ssim: 0.7071, l1: 0.0442
+time:  2023-03-04 09:44:42.408261
+result10:   psnr: 21.7739, ssim: 0.7071, l1: 0.0442
+result1:   psnr: 21.7739, ssim: 0.7071, l1: 0.0442
+result20:   psnr: 21.7739, ssim: 0.7071, l1: 0.0442
+result2:   psnr: 21.7739, ssim: 0.7071, l1: 0.0442
+time:  2023-03-04 09:45:27.905117
+result10:   psnr: 38.1668, ssim: 0.9826, l1: 0.0038
+result1:   psnr: 38.7322, ssim: 0.9824, l1: 0.0037
+result20:   psnr: 32.6690, ssim: 0.9528, l1: 0.0078
+result2:   psnr: 32.1008, ssim: 0.9467, l1: 0.0082
+result30:   psnr: 29.3277, ssim: 0.9110, l1: 0.0132
+result3:   psnr: 28.9810, ssim: 0.9028, l1: 0.0133
+result40:   psnr: 26.3348, ssim: 0.8584, l1: 0.0209
+result4:   psnr: 25.9487, ssim: 0.8394, l1: 0.0216
+result50:   psnr: 24.6446, ssim: 0.8021, l1: 0.0281
+time:  2023-03-04 09:47:17.156624
+time:  2023-03-04 09:48:15.636864
+result10:   psnr: 38.1668, ssim: 0.9826, l1: 0.0038
+result1:   psnr: 38.7322, ssim: 0.9824, l1: 0.0037
+result20:   psnr: 32.6690, ssim: 0.9528, l1: 0.0078
+result2:   psnr: 32.1008, ssim: 0.9467, l1: 0.0082
+result30:   psnr: 29.3277, ssim: 0.9110, l1: 0.0132
+result3:   psnr: 28.9810, ssim: 0.9028, l1: 0.0133
+result40:   psnr: 26.3348, ssim: 0.8584, l1: 0.0209
+result4:   psnr: 25.9487, ssim: 0.8394, l1: 0.0216
+result50:   psnr: 24.6446, ssim: 0.8021, l1: 0.0281
